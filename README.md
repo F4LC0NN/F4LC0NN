@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @F4LC0NN
-- 👀 I’m interested in web & app developement,
-- 🌱 I have 1 year of experience in front end development,
-- 💞️ I’m looking to collaborate on application projects that help people overcome their hardships,
-- 📫 How to reach me:
-- :mailbox: https://www.linkedin.com/in/ruben-thomas-web
+# Starting from scrath
+> "To build a tower that is strong, you must start with a sturdy brick."
+
+I don't who said that, this sentence summarizes exactly my thinking.  
+Start from scratch, understand your basics better, and build one layer at a time.
+
+## About me
+👋 Hello, my name is Ruben! 
+
+I am fullstack web developer.  
+I build websites on a daily basis, but what I like the most is to build applications.  
+Applications represent this tower, that has several layers, some simple, others complex, and built for a purpose.  
+This is what I want to achieve:  
+To built something, that has an impact on this world, that inspires, just like a tower.  
+
+😄 In any case, welcome and thank you for your visit!
+
+## Contact
+You can contact me on [LinkedIn](https://www.linkedin.com/in/ruben-thomas-web/). 
+
+🚀 It will be a great pleasure to share with you!
 
 <!---
 F4LC0NN/F4LC0NN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
