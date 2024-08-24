@@ -1,7 +1,7 @@
 # Starting from scrath
 > _"To build a tower that is strong, you must start with a sturdy brick."_
 
-I don't who said that, this sentence summarizes exactly my thinking.  
+I don't know who said that, this sentence summarizes exactly my thinking.  
 Start from scratch, understand your basics better, and build one layer at a time.
 
 ## About me
